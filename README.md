@@ -6,7 +6,6 @@
 #### "Transfer learning" makes use of the knowledge gained while solving one problem and applying it to a different but related problem.
 ###### For example, the knowledge gained while learning to recognize cars can be used to some extent to recognize trucks.
 
-###### Traditional Learning vs Transfer Learning
 ![](https://miro.medium.com/max/1400/0*sBn3nEeL3iGiCb_X.png)
 #### Pre-Training
 ###### When we train the network on a large dataset(for example ImageNet), we train all the parameters of the neural network, and therefore the model is learned. It may take hours on your GPU.
