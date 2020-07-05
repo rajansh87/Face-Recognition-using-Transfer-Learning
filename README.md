@@ -1,6 +1,7 @@
 # Face-Recognition-using-Transfer-Learning
 #### A Machine Learning model for Facial Recognition by applying Transfer Learning on the VGG16 model over Imagenet data.
 
+![](https://s3.ap-south-1.amazonaws.com/techleer/309.jpg)
 
 ###### Transfer learning makes use of the knowledge gained while solving one problem and applying it to a different but related problem.
 ###### For example, the knowledge gained while learning to recognize cars can be used to some extent to recognize trucks.
