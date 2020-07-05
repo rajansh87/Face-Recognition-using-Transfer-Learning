@@ -15,5 +15,5 @@
 ###### If the new dataset is very small, it’s better to train only the final layers of the network to avoid overfitting, keeping all other layers fixed. To remove the final layers of the pre-trained network. Add new layers. Retrain only the new layers.
 ###### If the new dataset is very much large, retrain the whole network with initial weights from the pre-trained model.
 
-#### My story for complete guide for the project : 
+#### My story for complete guide of the project : 
 ##### visit --->  https://medium.com/@rajansh87/face-recognition-using-transfer-learning-2526c284a911 
