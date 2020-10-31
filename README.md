@@ -1,4 +1,4 @@
-# Face-Recognition-using-Transfer-Learning
+# Face-Recognition-using-Transfer-Learning 
 #### A Machine Learning model for Facial Recognition by applying the Transfer Learning Technique on the VGG16 model over ImageNet data.
 
 ![](https://s3.ap-south-1.amazonaws.com/techleer/309.jpg)
